@@ -1,6 +1,8 @@
 ## Introduction
+
 ### original_stackheapoverflow_code
 This version is fundamental code. Other is modify based on it
+
 ---
 ### stackversion
 Please read it firstly if you want to understand code faster.
